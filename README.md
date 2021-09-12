@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Mohamed Tanash
-#### I am GitHub Readme Generator's creator
 I am Mohamed from Egypt, I am passionate about programming, I really enjoy doing front-end development
 
 Skills: REACT / JS / HTML / CSS
