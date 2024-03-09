@@ -1,7 +1,9 @@
 # Hi there 👋, my name is Mohamed Tanash
+
 ## I am a Full Stack Web Developer who is passionate about programming and creating websites from A to Z.
 
 ### 🛠 &nbsp;Tech Stack
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -18,9 +20,17 @@
 ![typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![jest](https://img.shields.io/badge/-Jest.js-05122A?style=flat&logo=jest)&nbsp;
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mtanash)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mtanash&show_icons=true)   -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mtanash)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mtanash&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mtanash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mtanash&show_icons=true)  
+###
 
+<img src="https://raw.githubusercontent.com/mtanash/mtanash/output/snake.svg" alt="Snake animation" />
+
+###
